@@ -42,17 +42,21 @@ myList.printList(); // Output: 1 → 2 → 7 → 3
 myList.reverse();
 myList.printList(); // Output: 3 → 7 → 2 → 1 
 
-# 🔧 How to Use
+🔧 How to Use
 Clone the repo:
 
 bash
 Copy
+git clone https:
 Compile & Run (using g++):
 
 bash
 Copy
 g++ main.cpp -o linkedlist
 ./linkedlist
+
+
+
  # 📊 Why This Project?
 Learn Data Structures: Understand linked lists, pointers, and dynamic memory.
 
