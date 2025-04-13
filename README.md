@@ -42,12 +42,12 @@ myList.printList(); // Output: 1 → 2 → 7 → 3
 myList.reverse();
 myList.printList(); // Output: 3 → 7 → 2 → 1 
 
-🔧 How to Use
+#  🔧 How to Use
 Clone the repo:
 
 bash
 Copy
-git clone https:
+git clone https://github.com/yourusername/linked-list-cpp.git
 Compile & Run (using g++):
 
 bash
